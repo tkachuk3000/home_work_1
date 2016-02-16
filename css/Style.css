@@ -1,19 +1,20 @@
 
 body{
      margin: 2px;
-     background-color: gray;
+     background-color: #D3D3D3;
     }
 
 h2{
    /*margin-left: 5px;*/
-   margin-bottom: 48px;
-   padding-top: 1px;
-   /*padding-left: 6%;*/
-   background-position: center;
-   }
+    /*padding-top: 1px;*/
+     /*padding-left: 6%;*/
+   margin: 0 auto;
+   width: 87%;
+   margin-bottom: 40px;
+    }
 
 img{
-    padding-left: 193px;}
+    padding-left: 177px;}
 
 .general{
        margin-top: 15px;
@@ -21,49 +22,56 @@ img{
        margin-bottom: auto;
        margin-left: 25%;
        background-color: white; 
-       width: 50%;
+       width: 830px;
        font-family: Arial;
        box-shadow: 0 0 45px rgba(0,0,0,0.5);
        }
 
 .box1{
-      padding-top: 85px;
-      padding-left: 2%;
-      font-size: 20px;
-      margin-top: 20px;
-      margin-left: 102px;
-      margin-right: 102px;
+      /*padding-left: 2%;*/
+      /*margin-right: 102px;*/
+      /*margin-top: 20px;*/
+      padding-top: 72px;
+      margin: 0 auto;
+      width:70%;
       padding-bottom: 15px;
       border-bottom: 1px solid black;
+      font-size: 20px;
     }
 
 .box2{
+      /*padding-left: 2%;*/
+      /*margin-left: 102px;
+      margin-right: 102px;*/
+      margin: 0 auto;
+      width:70%;
       padding-top: 10px;
-      padding-left: 2%;
       padding-bottom: 16px;
       font-size: 20px;
-      margin-left: 102px;
-      margin-right: 102px;
       margin-bottom: 20px;
       border-bottom: 1px solid black;
     }
 
 .box3{
+      /*padding-left: 2%;*/
+      /*margin-left: 102px;
+      margin-right: 102px;*/
+      margin: 0 auto;
+      width:70%;
       padding-top: 2px;
-      padding-left: 2%;
       padding-bottom: 35px;
       font-size: 20px;
-      margin-left: 102px;
-      margin-right: 102px;
       margin-bottom: 10px;
       border-bottom: 1px solid black
       }
 
 .box4{
+      /*padding-left: 14%;*/
+      margin: 0 auto;
+      width:70%;
       font-size: 20px;
       padding-top: 2px;
-      padding-bottom: 24px;
-      padding-left: 14%;
+      padding-bottom: 65px;
       }
 
 
